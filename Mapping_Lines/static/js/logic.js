@@ -22,7 +22,7 @@ let cityData = cities;
 
 // Loop through the cities array and create one marker for each city.
 //cityData.forEach(function(city) {
-    //console.log(city).addTo(map);
+    //console.log(city)
     //L.circleMarker(city.location, {
         //radius: city.population/100000
     //})
